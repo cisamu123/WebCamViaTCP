@@ -1,0 +1,17 @@
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\bin\Debug\WebCamViaTCP.Client.exe.config
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\bin\Debug\WebCamViaTCP.Client.exe
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\bin\Debug\WebCamViaTCP.Client.pdb
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\bin\Debug\AForge.dll
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\bin\Debug\AForge.Video.dll
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\bin\Debug\AForge.xml
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\bin\Debug\AForge.Video.xml
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\obj\Debug\WebCamViaTCP.Client.csproj.AssemblyReference.cache
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\obj\Debug\WebCamViaTCP.Client.FrmMain.resources
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\obj\Debug\WebCamViaTCP.Client.Properties.Resources.resources
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\obj\Debug\WebCamViaTCP.Client.csproj.GenerateResource.cache
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\obj\Debug\WebCamViaTCP.Client.csproj.CoreCompileInputs.cache
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\obj\Debug\WebCamViaTCP.Client.csproj.CopyComplete
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\obj\Debug\WebCamViaTCP.Client.exe
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Client\obj\Debug\WebCamViaTCP.Client.pdb

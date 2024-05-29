@@ -1,0 +1,11 @@
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Server\obj\Debug\WebCamViaTCP.Server.csproj.AssemblyReference.cache
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Server\obj\Debug\WebCamViaTCP.Server.FrmMain.resources
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Server\obj\Debug\WebCamViaTCP.Server.FrmPort.resources
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Server\obj\Debug\WebCamViaTCP.Server.Properties.Resources.resources
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Server\obj\Debug\WebCamViaTCP.Server.csproj.GenerateResource.cache
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Server\obj\Debug\WebCamViaTCP.Server.csproj.CoreCompileInputs.cache
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Server\bin\Debug\WebCamViaTCP.Server.exe.config
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Server\bin\Debug\WebCamViaTCP.Server.exe
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Server\bin\Debug\WebCamViaTCP.Server.pdb
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Server\obj\Debug\WebCamViaTCP.Server.exe
+C:\Users\pavli\Downloads\WebCamViaTCP\WebCamViaTCP.Server\obj\Debug\WebCamViaTCP.Server.pdb
